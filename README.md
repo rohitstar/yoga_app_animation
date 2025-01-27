@@ -28,3 +28,7 @@ npm install
 ```sh
 yarn start
 ```
+4. result
+![simulator_screenshot_9560D708-B3F6-4E05-8D5E-85210EB72F81](https://github.com/user-attachments/assets/483ff73d-e7ca-4333-8a69-21accd1e0674)
+
+   
